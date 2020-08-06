@@ -1,2 +1,2 @@
 # quizzler
-An Flutter app that simulates a quizz.
+A Flutter app that simulates a quizz.
